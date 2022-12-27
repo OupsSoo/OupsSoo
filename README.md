@@ -7,5 +7,5 @@
 💞️ I’m looking to collaborate on web security & network administration.
 
 📫 How to reach me I have discord which u can contact me at (no ahaha)
-
-@seela : Aiji Web | my website : https://powerstress.in/
+     
+PGP: 0x27RW4C1I | @seela : Aiji Web | my website : https://powerstress.in/
