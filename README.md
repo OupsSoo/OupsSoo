@@ -8,5 +8,6 @@
 
 📫 How to reach me I have discord which u can contact me at (no ahaha)
      
-PGP: 0x27RW4C1I | @seela : Azk Web | website : https://fate-stresser.com/
+PGP: 0x27RW4C1I | @seela : Kasia Web | website : https://fate-stresser.com/
+ 
  
