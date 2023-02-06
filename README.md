@@ -1,4 +1,4 @@
-👋 Hi, I’m Kasia
+👋 Hi, I’m Inay
 
 👀 I’m interested in web application languages. I am also in the field of CyberSec and network administration.
 
@@ -8,6 +8,6 @@
 
 📫 How to reach me I have discord which u can contact me at (no ahaha)
      
-PGP: 0x27RW4C1I | @seela : Kasia Web | website : https://fate-stresser.com/
+PGP: 0x27RW4C1I | @seela : Inay Web | webmaster on darlingcookies.
  
  
