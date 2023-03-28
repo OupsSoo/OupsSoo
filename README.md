@@ -1,4 +1,4 @@
-👋 Hi, I’m Inay
+👋 Hi, I’m Spaso
 
 👀 I’m interested in web application languages. I am also in the field of CyberSec and network administration.
 
