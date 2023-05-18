@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/YouTube-spasoweb-red?style=for-the-badge&logo=youtube" alt="YouTube">
-  <img src="https://img.shields.io/badge/Twitter-spasoweb-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  <img src="https://img.shields.io/badge/Instagram-5p4501337-brightgreen?style=for-the-badge&logo=instagram" alt="Instagram">
+  <a href="https://www.youtube.com/channel/UC0Zou17nzM6HZTECGYaYdBQ"><img src="https://img.shields.io/badge/YouTube-spasoweb-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://twitter.com/spasoweb"><img src="https://img.shields.io/badge/Twitter-spasoweb-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.instagram.com/5p4501337"><img src="https://img.shields.io/badge/Instagram-5p4501337-brightgreen?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </div>
 
 ## 👋 Hi, I'm Spaso.
@@ -13,9 +13,9 @@ Passionate about development and cybersecurity. On my Instagram profile, you wil
 ### About Me
 
 - 🎓 I have gained solid experience in web development and pentesting.
-- 🎥 I share my knowledge and experiences on YouTube, where I regularly publish videos on development and other exciting topics.
-- 🐦 You can follow me on Twitter to stay up to date with my latest projects and activities.
-- 💬 Feel free to join me on Instagram to discuss, ask questions, or collaborate on interesting projects.
+- 🎥 I share my knowledge and experiences on [YouTube](https://www.youtube.com/channel/UC0Zou17nzM6HZTECGYaYdBQ), where I regularly publish videos on development and other exciting topics.
+- 🐦 You can follow me on [Twitter](https://twitter.com/spasoweb) to stay up to date with my latest projects and activities.
+- 💬 Feel free to join me on [Instagram](https://www.instagram.com/5p4501337) to discuss, ask questions, or collaborate on interesting projects.
 
 ### Featured Projects
 
