@@ -30,7 +30,7 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 
 ### 🌐 Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 ### 🔧 Tools
 
