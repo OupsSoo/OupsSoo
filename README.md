@@ -25,7 +25,8 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 
 ### 🌟 Featured Projects
 
-- Crydoxing - A powerful tool for searching databases. It aims to simplify and automate the process of information gathering.
+- [Crydoxing](https://github.com/spaso1337/crydoxing) - A powerful tool for searching databases. It aims to simplify and automate the process of information gathering.
+
 
 ### 🌐 Languages
 
