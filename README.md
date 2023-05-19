@@ -8,7 +8,11 @@
 
 Welcome to my GitHub profile!
 
+- ⚡ Full Stack Developer | Ethical Hacker | Cybersecurity Enthusiast ⚡
+
 Passionate about development and cybersecurity. On my GitHub profile, you will find interesting projects, open source contributions, and maybe even some useful tips.
+
+🔭 Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=spaso1337&color=blueviolet&style=flat-square)
 
 ### About Me
 
@@ -17,13 +21,6 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 - 🐦 You can follow me on [Twitter](https://twitter.com/spasoweb) to stay up to date with my latest projects and activities.
 - 💬 Feel free to join me on [Instagram](https://www.instagram.com/5p4501337) to discuss, ask questions, or collaborate on interesting projects.
 
-👋 Hi, I'm Spaso.
-
-Welcome to my GitHub profile!
-
-- ⚡ Full Stack Developer | Ethical Hacker | Cybersecurity Enthusiast ⚡
-
-🔭 Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=spaso1337&color=blueviolet&style=flat-square)
 
 🌟 Featured Projects:
 - Crydoxing - A powerful tool for searching databases. It aims to simplify and automate the process of information gathering.
