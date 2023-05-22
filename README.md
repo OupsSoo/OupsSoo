@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/5p4501337"><img src="https://img.shields.io/badge/Instagram-5p4501337-brightgreen?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </div>
 
-## 👋 Hi, I'm Spaso.
+## 👋 Hi, I'm Soo Web.
 
 Welcome to my GitHub profile!
 
