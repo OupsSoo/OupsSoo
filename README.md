@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://www.youtube.com/channel/UC0Zou17nzM6HZTECGYaYdBQ"><img src="https://img.shields.io/badge/YouTube-spasoweb-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://twitter.com/spasoweb"><img src="https://img.shields.io/badge/Twitter-spasoweb-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.instagram.com/5p4501337"><img src="https://img.shields.io/badge/Instagram-5p4501337-brightgreen?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://twitter.com/OupsSoo"><img src="https://img.shields.io/badge/Twitter-spasoweb-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.instagram.com/s00w3b/"><img src="https://img.shields.io/badge/Instagram-5p4501337-brightgreen?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </div>
 
 ## 👋 Hi, I'm Soo Web.
