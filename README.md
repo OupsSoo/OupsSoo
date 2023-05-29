@@ -37,6 +37,5 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white&labelColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
