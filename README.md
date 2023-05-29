@@ -35,6 +35,7 @@ Passionate about development and cybersecurity. On my GitHub profile, you will f
 ### 🔧 Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Burp](https://img.shields.io/badge/-Burp-FF5722?style=flat-square&logo=burp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white&labelColor=black)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai)
