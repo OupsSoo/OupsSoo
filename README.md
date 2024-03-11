@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/channel/UC8wC6V3BeMiRUQwm9mf0Ynw"><img src="https://img.shields.io/badge/YouTube-sooweb-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://twitter.com/OupsSoo"><img src="https://img.shields.io/badge/Twitter-OupsSoo-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://twitter.com/s00w3b"><img src="https://img.shields.io/badge/Twitter-OupsSoo-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://www.instagram.com/s00w3b/"><img src="https://img.shields.io/badge/Instagram-s00w3b-brightgreen?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </div>
 
