@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/s00w3b/"><img src="https://img.shields.io/badge/Instagram-s00w3b-brightgreen?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </div>
 
-## 👋 Hi, I'm Soo Web.
+## 👋 Hi, I'm Bubbles.
 
 Welcome to my GitHub profile!
 
